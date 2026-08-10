@@ -72,8 +72,8 @@ Unity • C#
 
 ## 📫 Connect With Me
 
-- GitHub: @lowpolly-art
-- Email: your-email@example.com
+- GitHub: 
+- Email: 
 
 ---
 
