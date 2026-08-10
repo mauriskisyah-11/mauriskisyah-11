@@ -1,94 +1,181 @@
-## Hi there 👋
-# 👋 Hi, I'm Mauriski Syahruli
+<!-- ===================== HEADER ===================== -->
 
-### 💻 Web Developer | Software Engineer | UI/UX Enthusiast
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Mauriski%20Syahruli&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-Welcome to my GitHub profile!
+<!-- ===================== TYPING ===================== -->
 
-I enjoy building web applications, exploring new technologies,
-and creating useful digital solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Web+Developer;React+%7C+Laravel+Developer;Supabase+%7C+PostgreSQL;Software+Engineering+Student;Always+Learning+New+Technologies+%F0%9F%9A%80" />
+</p>
+
+<h3 align="center">
+  💻 Building Digital Solutions • 🚀 Exploring Technology • 🎨 Creating Experiences
+</h3>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🎓 Information Technology Student
-- 💻 Focused on Web Development
-- ⚛️ React & Laravel Developer
-- 🗄️ PostgreSQL & Supabase
-- 🎨 UI/UX Design
-- 🔐 Interested in Cybersecurity
-- 🚀 Always learning new technologies
+Hi! I'm **Mauriski Syahruli**, a software development enthusiast who enjoys building web applications and exploring modern technologies.
+
+* 🎓 Information Technology Student
+* 💻 Web Developer
+* ⚛️ React Developer
+* 🔥 Laravel Developer
+* 🗄️ Supabase & PostgreSQL
+* 🎮 Unity Game Development
+* 🔐 Interested in Cybersecurity
+* 🚀 Always learning and experimenting with new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 💻 Languages
 
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs,solidity" />
+</p>
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### ⚛️ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,laravel,vite,tailwind,nodejs" />
+</p>
+
+### 🗄️ Database & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,unity,postman" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🏛️ Digital Archive & Letter Service
-Web-based digital service system for subdistrict government.
+### 🏛️ Digital Letter & Archive System
 
-**Tech:**
-React • Laravel • Supabase • PostgreSQL
+A web-based government service system for managing incoming letters, outgoing letters, digital archives, and public services.
+
+**Tech Stack:**
+
+`React` `Laravel` `Supabase` `PostgreSQL`
+
+---
 
 ### 🗳️ Blockchain Voting System
-A secure voting system concept using blockchain technology.
 
-**Tech:**
-Solidity • Hardhat • Web3
+A decentralized voting system concept designed to improve transparency and data integrity through blockchain technology.
 
-### 🎮 Educational Quiz Game
-Interactive educational game developed with Unity.
+**Tech Stack:**
 
-**Tech:**
-Unity • C#
+`Solidity` `Hardhat` `Web3` `JavaScript`
 
 ---
 
-## 📊 GitHub Stats
+### 🎮 Educational Quiz Game
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowpolly-art&show_icons=true&theme=tokyonight)
+An interactive educational game featuring multiple-choice questions, scoring, health/heart systems, and interactive gameplay.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lowpolly-art&layout=compact&theme=tokyonight)
+**Tech Stack:**
+
+`Unity` `C#`
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 💡 Currently Learning
+
+```text
+React.js
+Laravel
+Supabase
+PostgreSQL
+Cybersecurity
+Cloud Deployment
+Blockchain
+UI/UX Design
+```
+
+---
+
+## 🎯 Goals
+
+```text
+[██████████████████░░] Web Development
+[████████████████░░░░] React
+[███████████████░░░░░] Laravel
+[██████████████░░░░░░] Cybersecurity
+[████████████░░░░░░░░] Blockchain
+[██████████░░░░░░░░░░] Cloud & DevOps
+```
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: 
-- Email: 
+<p align="center">
+
+<a href="https://github.com/USERNAME_GITHUB">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
-<!--
-**mauriskisyah-11/mauriskisyah-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>"Code. Create. Learn. Repeat. 🚀"</i>
+</p>
